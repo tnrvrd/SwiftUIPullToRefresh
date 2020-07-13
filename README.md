@@ -14,7 +14,7 @@ https://github.com/muhammedtanriverdi/SwiftUIPullToRefresh.git
 
 ## Usage
 
-![](https://giphy.com/gifs/fsEddJe0fVeuG3gWFr/html5)
+![](https://media.giphy.com/media/fsEddJe0fVeuG3gWFr/giphy.gif)
 
 ScrollView
 
