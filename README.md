@@ -14,6 +14,8 @@ https://github.com/muhammedtanriverdi/SwiftUIPullToRefresh.git
 
 ## Usage
 
+![](https://giphy.com/embed/f9rAdSy52fsxqrFbDt)
+
 ScrollView
 
 ```
